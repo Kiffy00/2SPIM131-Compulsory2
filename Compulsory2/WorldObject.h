@@ -15,7 +15,7 @@ enum GLObjectEnum {
     EBOtype
 };
 
-class WorldObject { // Not part of ECS/OOD implementation
+class WorldObject { // Not part of ECS/DOD implementation
 public:
     glm::vec3 position;
     glm::vec3 scale;
